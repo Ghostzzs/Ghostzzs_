@@ -1,59 +1,95 @@
-# Ghostzzs_
-Sobre mim
-<h1 align="center">👋 Olá! Eu sou o Arthur Dantas</h1>
+<h1 align="center">👨‍💻 Ghostzzs</h1>
 
 <p align="center">
-🎯 Desenvolvedor focado em <strong>segurança digital</strong>, <strong>automação de sistemas</strong> e <strong>aplicações Android nativas</strong><br>
-💻 Criador de soluções como <strong>Ghostzzs Bypass</strong> (PowerShell/C++) e <strong>AntiCloneDetector</strong> (Kotlin)
+Backend Developer | Security Enthusiast | Building Real Solutions
 </p>
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🧠 About Me
 
-- ⚙️ C++ | PowerShell | Shell Script
-- 📱 Kotlin (Android nativo com XML)
-- 🧠 Desenvolvimento de spoofers, automações e bypasses
-- 🌐 HTML | CSS (básico)
-- 🛠️ Git | GitHub | Android Studio | Visual Studio | Windows/Linux
+I'm a backend developer focused on building **secure, scalable and high-performance systems**.
+
+I’m currently developing real-world projects involving:
+- System optimization
+- Mobile security
+- Automation tools
+
+My goal is to specialize in **Backend Development + Cybersecurity (AppSec / Blue Team)**.
+
+---
+
+## 🌐 My Website
+
+👉 https://ghostzzswebstudio.netlify.app/
+
+A personal project where I showcase services, ideas and future tools.
 
 ---
 
-## 🧩 Projetos em Destaque
+## 🚀 Technologies
 
-### 🔐 Ghostzzs Bypass
-Sistema de segurança e automação para servidores FiveM (GTA V):
-- Spoofer de HWID, MAC e GUID
-- Bypass de CitizenFX
-- Limpeza de cache e arquivos temporários
-- Versões em PowerShell e C++
-
-📁 *Projeto privado – demonstrável sob solicitação profissional.*
+- C#
+- .NET
+- Java (learning)
+- Node.js (learning)
+- SQL
+- Git & GitHub
 
 ---
+
+## 🔐 Focus Areas
+
+- Backend Development
+- API Security
+- Authentication (JWT)
+- System Optimization
+- Cybersecurity Fundamentals
+
+---
+
+## 📂 Projects
+
+### 🔧 Ghostzzs Optimization
+A system optimization tool designed to improve performance and reduce latency for gaming and daily usage.
 
 ### 📱 AntiCloneDetector
-Aplicativo Android (Kotlin) para detectar sinais de clonagem:
-- Troca de SIM
-- Apps suspeitos
-- Consumo anormal de bateria/dados
-- Interface em XML com Empty Views
+Android app built in Kotlin focused on detecting suspicious behavior and potential device cloning.
 
-🔗 *Repositório privado/público conforme necessidade*
+### 💬 AegisChat (In development)
+Secure communication platform focused on privacy and encrypted messaging.
 
 ---
 
-## 📈 Formação e Objetivos
+## 🎯 Career Goal
 
-🎓 Em formação em programação no Brasil  
-🌍 Planejo atuar profissionalmente também fora do país (como Portugal 🇵🇹)  
-🧠 Estudo contínuo em segurança, automação e mobile  
+I aim to work as a **Backend Developer** and evolve into **Cybersecurity / AppSec**, building secure and efficient systems.
 
 ---
 
-## 📬 Contato
+## 🌍 Languages
 
-- 🐙 GitHub: [@Ghostzzs_](https://github.com/Ghostzzs)
-- ✉️ Email: *arthurdantasvsoares@gmail.com*
+- Portuguese (Native)
+- English (Intermediate)
+- French (Learning)
 
 ---
+
+## 📫 Contact
+
+- Email: *arthurdantasvsoares@gmail.com*
+- LinkedIn: yourprofile
+- GitHub: [@Ghostzzs_](https://github.com/Ghostzzs)
+
+---
+
+## ⚡ Current Focus
+
+- Improving backend architecture skills
+- Learning cybersecurity practices
+- Building real-world projects
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ghostzzs&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghostzzs&layout=compact&theme=tokyonight" />
+</p>
